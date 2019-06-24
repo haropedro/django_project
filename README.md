@@ -1,4 +1,4 @@
 # django_project
 
 
-![](BloggApp.gif)
+! [] (BloggApp.gif)
