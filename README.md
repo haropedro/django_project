@@ -1,5 +1,5 @@
 # django_project
 
 
-
-![Demo of Website](Demo/BlogApp.gif)
+# Demo
+![Demo Of Website](Demo/BlogApp.gif)
