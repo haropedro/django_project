@@ -2,4 +2,4 @@
 
 
 # Demo
-![Demo Of Website](Demo/BlogApp.gif)
+![Demo Of Website](Demo/BloggApp.gif)
